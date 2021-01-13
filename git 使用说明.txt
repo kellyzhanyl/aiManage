@@ -1,0 +1,16 @@
+git 
+1.下载git工具 地址为：http://git-scm.com/downloads
+
+2.安装【省略】
+
+3.配置用户信息
+  git config --global user.name "xxxx"
+  git config --global user.email xxx@xxx.com
+  
+4.查看配置信息
+  git config --list
+ 
+5.克隆git代码库
+  git clone https://github.com/kellyzhanyl/aiManage.git
+  
+6.
